@@ -2,18 +2,46 @@ body{
     margin:0%;
     padding: 0%;
     box-sizing: border-box;
-    background: rgb(164, 156, 222);
 }
-h1{
+
+.background{
+    display: flex;
+    margin-top: 0%;
+    height: 180vh;
+    /* width: 100vw; */
+    background: linear-gradient(rgb(217, 28, 60),rgb(229, 54, 83));
+    font-size: 20px;
+    font-family: garamond ;
+}
+.info{
+    position: absolute;
     align-items: center;
-    text-shadow: 2px 2px 3px rgb(96, 99, 163);
-    font-size: 40px;
 }
-h2{
-    text-shadow: 2px 2px 3px #6944a9;
-    font-size: 30px;
+.container{
+    flex: 700px;
+    margin: auto;
+    padding: 10px;
 }
-.form{
-    font-size: 22px;
-    
-}
+
+.screen {
+    margin-top: 5%;
+    margin-left: 30%;
+    position: relative;
+    background: #3e3e3e;
+    border-radius: 15px;
+    height: 150vh;
+    width: 50vw;
+  }
+  /* input{
+      background:transparent;
+      border: transparent;
+  } */
+.title {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    color: rgb(217, 28, 60);
+    font-size: 26px;
+  }
+  
+  
