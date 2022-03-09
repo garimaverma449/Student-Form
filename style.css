@@ -22,7 +22,7 @@ body{
 .content{
     font-family: arial black;
     position: absolute;
-    margin-top: 7%;
+    margin-top: 3%;
     margin-left: 12%;
     align-items: center;
 }
@@ -43,15 +43,48 @@ body{
   }
 .title {
     margin-left: 10%;
-    margin-top: 2%;
+    margin-top: 7%;
     display: flex;
+    letter-spacing: 5px;
+    text-decoration: double;
+    font-family:garamond;
     flex-direction: column;
     position: relative;
     color: rgb(217, 28, 60);
     font-size: 30px;
   }
 
+
   input{
      font-family: garamond;
      font-size: 15px;
   }
+
+  .button1 {
+    font-family: arial black;
+    height: 6%;
+    margin-right:20px;
+    width: 100px;
+    background-color:#3e3e3e;
+    border-radius: 2px;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    box-shadow: 2px 1px 2px 2px rgb(217, 28, 60);
+}
+
+.button2 {
+    font-family: arial black;
+    height: 6%;
+    width: 100px;
+    display: inline-block;
+    background-color:#3e3e3e;
+    border-radius: 2px;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 2px 1px 2px 2px rgb(217, 28, 60);
+}
