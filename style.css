@@ -1,0 +1,19 @@
+body{
+    margin:0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background: rgb(164, 156, 222);
+}
+h1{
+    align-items: center;
+    text-shadow: 2px 2px 3px rgb(96, 99, 163);
+    font-size: 40px;
+}
+h2{
+    text-shadow: 2px 2px 3px #6944a9;
+    font-size: 30px;
+}
+.form{
+    font-size: 22px;
+    
+}
