@@ -1,3 +1,4 @@
-Remote repository and local repository
+Remote repository and local repository are linked to each other
+
 
 
