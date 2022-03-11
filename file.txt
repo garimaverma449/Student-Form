@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hey,,,,,,,,,,
+=======
+hey,,
+Add from Remote
+>>>>>>> 4ef04f2534d554f5f962733c7a884e42aca30b54
